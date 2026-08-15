@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Hassan
 
-### 💻 Full-Stack Web Developer | PHP | JavaScript | MySQL
+### 💻 Full-Stack Web Developer
 
 I’m a passionate Full-Stack Web Developer focused on building
 responsive, scalable and user-friendly web applications.
@@ -13,10 +13,10 @@ in modern web technologies.
 ## 🛠️ Tech Stack
 
 ### Frontend
-HTML5 • CSS3 • JavaScript • Bootstrap
+HTML5 • CSS3 • JavaScript • Bootstrap • Jquery • Angualr • Dot-Net
 
 ### Backend
-PHP • MySQL
+PHP • MySQL • Dot-Net • Sql-Server
 
 ### Tools
 Git • GitHub • VS Code • XAMPP
@@ -24,13 +24,6 @@ Git • GitHub • VS Code • XAMPP
 ---
 
 ## 🚀 Featured Projects
-
-### 🏋️ Spark Gym
-A modern gym management website with frontend and backend functionality.
-
-### 🖨️ Packzaa Enterprises
-A professional printing business website with an admin dashboard,
-product management and database integration.
 
 ### 🌐 Personal Portfolio
 My personal developer portfolio showcasing my skills and projects.
