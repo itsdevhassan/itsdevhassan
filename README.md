@@ -52,9 +52,9 @@ My personal developer portfolio showcasing my skills and projects.
 
 🌐 Portfolio: https://itsdevhassan.xo.je/
 
-💼 LinkedIn: [Your LinkedIn]
+💼 LinkedIn: [https://www.linkedin.com/in/muhammad-hassan-sohail-%F0%9F%92%BB-71016337a/]
 
-🐙 GitHub: [Your GitHub]
+🐙 GitHub: [https://github.com/itsdevhassan]
 
 ---
 
