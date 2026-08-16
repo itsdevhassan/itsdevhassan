@@ -1,38 +1,26 @@
 <img width="959" height="356" alt="image" src="https://github.com/user-attachments/assets/bc739767-fe5c-4bcb-b1f4-09b97ce849ff" />
 
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hey, I'm Muhammad Hassan
-
-### 💻 Full Stack Developer
-
-Building modern, responsive and scalable web applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:161616,100:242424&text=Muhammad%20Hassan&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Frontend+%2B+Backend+%2B+Database;PHP+%7C+MySQL+%7C+JavaScript;Turning+Ideas+Into+Working+Software" />
+
+<br><br>
+
 <a href="https://muhammad-hassan-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hshiekh007-star">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/hshiekh007-star/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf">
+<img src="https://img.shields.io/badge/📄%20Download-CV-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<!-- ===================== TYPING ===================== -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+%7C+MySQL+Developer;Frontend+%7C+Backend+Developer;Building+Clean+%26+Responsive+Web+Apps;Always+Learning+%26+Building" />
 
 </div>
 
@@ -40,138 +28,167 @@ Building modern, responsive and scalable web applications.
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<div align="center">
 
-## 👨‍💻 About Me
+## 👋 Hello, I'm Muhammad Hassan
 
-I'm **Muhammad Hassan**, a Full Stack Developer passionate about building modern and user-friendly web applications.
+### `Full Stack Developer`
 
-I enjoy working across both **frontend and backend development**, creating complete applications from responsive interfaces to database-driven systems.
+I build **responsive, database-driven and professional web applications**
+with a strong focus on clean UI, functionality and user experience.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hshiekh007-star&label=Profile%20Views&color=111111&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
 
 ```javascript
 const hassan = {
+    name: "Muhammad Hassan",
     role: "Full Stack Developer",
     location: "Karachi, Pakistan",
-    focus: [
-        "Web Development",
-        "Backend Development",
-        "Database Development",
-        "Responsive UI"
-    ],
+
+    development: {
+        frontend: ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular"],
+        backend: ["PHP", "Laravel"],
+        database: ["MySQL"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    },
+
     currentlyLearning: [
         "Laravel",
         "Angular",
         "Cloud & DevOps"
     ],
-    goal: "Build scalable and professional software solutions"
+
+    mindset: "Build • Learn • Improve",
+    goal: "Become a strong software architect"
 };
-<!-- ===================== TECH STACK ===================== -->
-🛠️ Tech Stack
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" /> </p>
-Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=php,mysql,laravel" /> </p>
-Tools & Development
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> </p>
-<!-- ===================== WHAT I DO ===================== -->
-🚀 What I Do
-<table> <tr> <td width="50%">
-🎨 Frontend Development
-Responsive websites
-Modern UI/UX
-Bootstrap interfaces
-JavaScript functionality
-Mobile-friendly layouts
-</td> <td width="50%">
-⚙️ Backend Development
-PHP applications
+⚡ What I Build
+<table> <tr> <td width="33%" align="center">
+🎨 Frontend
+
+Responsive & modern interfaces
+
+<br>
+
+HTML
+CSS
+JavaScript
+Bootstrap
+Angular
+
+</td> <td width="33%" align="center">
+⚙️ Backend
+
+Powerful server-side applications
+
+<br>
+
+PHP
+Laravel
 REST APIs
-MySQL databases
-Authentication systems
-Admin dashboards
-</td> </tr> <tr> <td width="50%">
-🗄️ Database Development
+
+</td> <td width="33%" align="center">
+🗄️ Database
+
+Structured & reliable data systems
+
+<br>
+
 MySQL
-Database design
-CRUD systems
+CRUD
 Relationships
-Query optimization
-</td> <td width="50%">
-📊 Full Stack Applications
-Business websites
-Management systems
-E-commerce platforms
-Admin panels
-Dynamic web applications
+
 </td> </tr> </table>
-<!-- ===================== PROJECTS ===================== -->
+🛠️ Technologies & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,php,laravel,mysql,git,github,vscode,postman&perline=6" /> </div>
 🚀 Featured Projects
 🏋️ Spark Gym Management System
 
-A modern gym management website with a professional dark theme and backend-powered management system.
+A complete gym management platform designed with a modern dark professional interface.
 
-Features:
+Key Features
 
 Responsive gym website
 Admin dashboard
 Membership management
-Trainer profiles
+Trainer management
 Gallery management
 Subscription management
-Dynamic content
+Dynamic database-driven content
 
-Tech: PHP MySQL HTML CSS JavaScript Bootstrap
+Tech Stack
+
+PHP MySQL HTML CSS JavaScript Bootstrap
 
 🖨️ PrintPro — Printing Management System
 
-A complete printing business website with an admin dashboard for managing products and categories.
+A complete business website and management system for a printing company.
 
-Features:
+Key Features
 
 Product management
 Category management
-Contact messages
 Admin dashboard
+Contact message management
 Database integration
-Responsive interface
+Responsive design
 
-Tech: PHP MySQL Bootstrap JavaScript
+Tech Stack
 
-🛒 E-Commerce Web Application
+PHP MySQL Bootstrap JavaScript
 
-A dynamic e-commerce application designed for managing products, users and orders.
+💼 Portfolio Website
 
-Tech: PHP MySQL HTML CSS JavaScript
+Personal developer portfolio showcasing projects, skills and experience.
 
-<div align="center"> <a href="https://github.com/hshiekh007-star?tab=repositories"> <img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-111111?style=for-the-badge" /> </a> </div>
-<!-- ===================== GITHUB STATS ===================== -->
-📊 GitHub Statistics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=hshiekh007-star&show_icons=true&theme=dark&hide_border=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshiekh007-star&layout=compact&theme=dark&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=hshiekh007-star&theme=dark&hide_border=true" /> </div>
-<!-- ===================== CONTRIBUTION ===================== -->
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
-<!-- ===================== CURRENTLY LEARNING ===================== -->
+Tech Stack
+
+HTML CSS JavaScript Bootstrap
+
+<br> <div align="center"> <a href="https://github.com/hshiekh007-star?tab=repositories"> <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-111111?style=for-the-badge"/> </a> </div>
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=hshiekh007-star&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshiekh007-star&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=hshiekh007-star&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hshiekh007-star&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/> </div>
+🐍 Contribution Animation
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
 📚 Currently Learning
-Laravel
-Angular
-Cloud & DevOps
-Advanced Backend Development
-REST APIs
-Scalable Application Architecture
-<!-- ===================== GOALS ===================== -->
-🎯 2026 Goals
-🚀 Build more full-stack applications
-📚 Improve Laravel development
-⚡ Improve Angular skills
-☁️ Learn Cloud & DevOps
-🧠 Improve software architecture knowledge
-🌎 Work on real-world projects
-💼 Grow as a professional Full Stack Developer
-<!-- ===================== CONNECT ===================== -->
+<div align="center">
+
+Laravel   Angular   Cloud   DevOps
+
+</div> <br>
+🔥 Improving Laravel development
+⚡ Building better Angular applications
+☁️ Exploring Cloud & DevOps
+🧠 Learning scalable application architecture
+🚀 Working on real-world projects
+🎯 My Development Philosophy
+<div align="center">
+
+"Don't just write code. Build solutions."
+
+<br>
+
+Learn → Build → Break → Fix → Improve → Repeat
+
+</div>
+📄 Download My CV
+<div align="center"> <a href="https://github.com/hshiekh007-star/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf"> <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20MY%20CV-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF"/> </a>
+
+<br><br>
+
+<sub>Click the button above to view/download my latest CV.</sub>
+
+</div>
 🤝 Let's Connect
-<div align="center"> <a href="https://muhammad-hassan-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/hshiekh007-star"> <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://muhammad-hassan-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://github.com/hshiekh007-star"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
 💻 Code. Build. Learn. Repeat.
-
-Thanks for visiting my profile! ⭐
-
-</div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:242424,50:161616,100:0d0d0d&section=footer" width="100%"/> </div> ```
