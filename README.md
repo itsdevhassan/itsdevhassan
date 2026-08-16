@@ -1,4 +1,5 @@
-![Uploading Yellow and Blue Bold Geometric Software Developer LinkedIn Banner (1).png…]()
+<img width="959" height="356" alt="image" src="https://github.com/user-attachments/assets/bc739767-fe5c-4bcb-b1f4-09b97ce849ff" />
+
 
 # 👋 Hi, I'm Muhammad Hassan
 
