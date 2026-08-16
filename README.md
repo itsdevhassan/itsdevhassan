@@ -10,15 +10,15 @@
 
 <br><br>
 
-<a href="https://muhammad-hassan-portfolio.netlify.app/">
+<a href="https://itsdevhassan.xo.je//">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="https://github.com/hshiekh007-star">
+<a href="https://github.com/itsdevhassan">
 <img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/hshiekh007-star/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf">
+<a href="https://itsdevhassan/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf">
 <img src="https://img.shields.io/badge/📄%20Download-CV-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -152,7 +152,7 @@ Tech Stack
 
 HTML CSS JavaScript Bootstrap
 
-<br> <div align="center"> <a href="https://github.com/hshiekh007-star?tab=repositories"> <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-111111?style=for-the-badge"/> </a> </div>
+<br> <div align="center"> <a href="https://itsdevhassan?tab=repositories"> <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-111111?style=for-the-badge"/> </a> </div>
 📊 GitHub Analytics
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=hshiekh007-star&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshiekh007-star&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=hshiekh007-star&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" /> </div>
 📈 Contribution Graph
@@ -181,7 +181,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 </div>
 📄 Download My CV
-<div align="center"> <a href="https://github.com/hshiekh007-star/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf"> <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20MY%20CV-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF"/> </a>
+<div align="center"> <a href="https:///Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf"> <img src="https://img.shields.io/badge/📥%20DOWNLOAD%20MY%20CV-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF"/> </a>
 
 <br><br>
 
@@ -189,6 +189,6 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 </div>
 🤝 Let's Connect
-<div align="center"> <a href="https://muhammad-hassan-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://github.com/hshiekh007-star"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://itsdevhassan.xo.je/"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="https://github.com/itsdevhassan"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https:"https://www.linkedin.com/in/muhammad-hassan-sohail-%F0%9F%92%BB-71016337a/"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
 💻 Code. Build. Learn. Repeat.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:242424,50:161616,100:0d0d0d&section=footer" width="100%"/> </div> ```
