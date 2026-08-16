@@ -70,7 +70,7 @@ const hassan = {
     goal: "Become a strong software architect"
 };
 ⚡ What I Build
-<table> <tr> <td width="33%" align="center">
+    `<table> <tr> <td width="33%" align="center">`
 🎨 Frontend
 
 Responsive & modern interfaces
