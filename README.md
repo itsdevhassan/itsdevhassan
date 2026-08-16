@@ -21,10 +21,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="./Muhammad-Hassan-CV.pdf">
-<img src="https://img.shields.io/badge/📄%20Download-CV-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://github.com/itsdevhassan/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf">
+<img src="https://img.shields.io/badge/📄%20Download%20CV-111111?style=for-the-badge"/>
 </a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=itsdevhassan&label=Profile%20Views&color=111111&style=for-the-badge"/>
@@ -422,12 +421,11 @@ Become a better engineer
 ## 📄 Download My CV
 
 <div align="center">
-
-<a href="./Muhammad-Hassan-CV.pdf">
-
-<img src="https://img.shields.io/badge/📥%20DOWNLOAD%20MY%20CV-FFFFFF?style=for-the-badge&labelColor=111111&color=111111"/>
-
+<a href="https://github.com/itsdevhassan/Muhammad-Hassan-CV/raw/main/Muhammad-Hassan-CV.pdf">
+<img src="https://img.shields.io/badge/📄%20Download%20CV-111111?style=for-the-badge"/>
 </a>
+
+
 
 <br><br>
 
