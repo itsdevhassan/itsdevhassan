@@ -73,7 +73,6 @@ const hassan = {
         "SQL Server",
         "PostgreSQL",
         "Neon",
-        "MongoDB"
     ],
 
     tools: [
@@ -150,7 +149,6 @@ MySQL<br>
 SQL Server<br>
 PostgreSQL<br>
 Neon<br>
-MongoDB
 </p>
 
 </td>
@@ -178,7 +176,7 @@ MongoDB
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" />
 
 <br><br>
 
