@@ -1,465 +1,229 @@
-<img width="959" height="356" alt="image" src="https://github.com/user-attachments/assets/bc739767-fe5c-4bcb-b1f4-09b97ce849ff" />
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,50:111111,100:242424&text=Muhammad%20Hassan&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=cccccc&descAlignY=58&descSize=21&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080808,50:151515,100:2A2A2A&text=Muhammad%20Hassan&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Karachi%2C%20Pakistan&descColor=B8B8B8&descAlignY=54&descSize=18&animation=fadeIn" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Frontend+%2B+Backend+%2B+Database;PHP+%7C+Laravel+%7C+.NET+%7C+JavaScript;Currently+Learning+React;Turning+Ideas+Into+Real+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+Full-Stack+Web+Applications;Frontend+%2B+Backend+%2B+Database;PHP+%C2%B7+Laravel+%C2%B7+.NET+%C2%B7+JavaScript;Currently+Sharpening+React;Turning+Ideas+Into+Real+Software" />
 
-<br><br>
+<br/><br/>
 
-<a href="https://itsdevhassan.xo.je/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge"/>
-</a>
+<a href="https://itsdevhassan.xo.je/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Site-0D0D0D?style=for-the-badge&labelColor=000000"/></a>
+<a href="https://github.com/itsdevhassan?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-View%20Projects-0D0D0D?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/muhammad-hassan-sohail-%F0%9F%92%BB-71016337a/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="./Muhammad-Hassan-CV.pdf"><img src="https://img.shields.io/badge/RESUME-Download-0D0D0D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000"/></a>
 
-<a href="https://github.com/itsdevhassan">
-<img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/muhammad-hassan-sohail-%F0%9F%92%BB-71016337a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="./Muhammad-Hassan-CV.pdf">
-<img src="https://img.shields.io/badge/📄%20Download-CV-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=itsdevhassan&label=Profile%20Views&color=111111&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=itsdevhassan&label=Profile%20Views&color=0D0D0D&style=for-the-badge"/>
 
 </div>
 
----
-
-## 👨‍💻 About Me
+<br/>
 
 <div align="center">
 
-### Hey! I'm Muhammad Hassan 👋
-
-**Full Stack Developer** focused on building responsive, database-driven and professional web applications.
-
-I enjoy working across the **frontend, backend and database layers** of an application — from designing interfaces to developing APIs, authentication systems, dashboards and database-driven solutions.
+## &nbsp;
 
 </div>
 
-<br>
-
-```javascript
-const hassan = {
-    name: "Muhammad Hassan",
-    role: "Full Stack Developer",
-    location: "Karachi, Pakistan",
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "Angular",
-        "React"
-    ],
-
-    backend: [
-        "PHP",
-        "Laravel",
-        ".NET"
-    ],
-
-    databases: [
-        "MySQL",
-        "SQL Server",
-        "PostgreSQL",
-        "Neon",
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-
-    currentlyLearning: [
-        "React"
-    ],
-
-    mindset: "Build • Learn • Improve",
-    goal: "Become a strong software engineer"
-};
-```
-
----
-
-## ⚡ What I Build
-
-<table width="100%">
+<table width="100%" border="0">
 <tr>
+<td width="100%">
 
-<td width="33%" align="center">
+### 👋 About
 
-<h3>🎨 Frontend</h3>
+I'm a **Full Stack Developer** who builds responsive, database-driven web applications end to end — interfaces, APIs, authentication, dashboards, and the data layer underneath them.
 
-<p>
-Modern & responsive interfaces
-</p>
+My day-to-day sits across three layers:
 
-<p>
-HTML<br>
-CSS<br>
-JavaScript<br>
-Bootstrap<br>
-Angular<br>
-React
-</p>
+&nbsp;&nbsp;**Frontend** — interfaces people actually enjoy using
+&nbsp;&nbsp;**Backend** — APIs, auth, and business logic that hold up
+&nbsp;&nbsp;**Database** — schemas and queries that scale cleanly
+
+Currently deepening my **React** skills while shipping full-stack projects in PHP, Laravel, and .NET.
 
 </td>
-
-<td width="33%" align="center">
-
-<h3>⚙️ Backend</h3>
-
-<p>
-Reliable server-side applications
-</p>
-
-<p>
-PHP<br>
-Laravel<br>
-.NET<br>
-REST APIs<br>
-Authentication<br>
-Admin Panels
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🗄️ Databases</h3>
-
-<p>
-Structured & scalable data systems
-</p>
-
-<p>
-MySQL<br>
-SQL Server<br>
-PostgreSQL<br>
-Neon<br>
-</p>
-
-</td>
-
 </tr>
 </table>
 
----
-
-## 🛠️ Technologies & Tools
+<br/>
 
 <div align="center">
 
-### Frontend
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,react&perline=6" />
+**🎨 Frontend**
+<br/>
+<sub>HTML · CSS · JavaScript<br/>Bootstrap · Angular · React</sub>
 
-<br><br>
+</td>
+<td align="center" width="33%">
 
-### Backend
+**⚙️ Backend**
+<br/>
+<sub>PHP · Laravel · .NET<br/>REST APIs · Auth · Admin Panels</sub>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,dotnet&perline=6" />
+</td>
+<td align="center" width="33%">
 
-<br><br>
+**🗄️ Database**
+<br/>
+<sub>MySQL · SQL Server<br/>PostgreSQL · Neon</sub>
 
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=6" />
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🖨️ Packzaa Enterprises
-
-A modern printing company website built with Core PHP and MySQL, featuring a responsive frontend and secure admin dashboard.
-
-**Features**
-
-* Product management
-* Category management
-* Admin dashboard
-* Contact messages
-* Dynamic database content
-* Responsive UI
-
-**Tech Stack**
-
-`PHP` `MySQL` `Bootstrap` `JavaScript` `HTML` `CSS`
-
-<a href="https://github.com/itsdevhassan/Packzaa">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-111111?style=for-the-badge"/>
-</a>
-
----
-
-### 🏋️ Gym Fee Management System
-
-A PHP & MySQL based management system for handling gym members, monthly fees, payment history and outstanding payments.
-
-**Features**
-
-* Member management
-* Monthly fee management
-* Payment history
-* Due fee tracking
-* Admin dashboard
-* Database-driven system
-
-**Tech Stack**
-
-`PHP` `MySQL` `Bootstrap` `JavaScript`
-
-<a href="https://github.com/itsdevhassan/gym-fee-management-system">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-111111?style=for-the-badge"/>
-</a>
-
----
-
-### 🚗 Rent Car Website
-
-A responsive car rental website frontend designed for browsing rental vehicles through a modern interface.
-
-**Tech Stack**
-
-`PHP` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-<a href="https://github.com/itsdevhassan/Rent-Car-Website">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-111111?style=for-the-badge"/>
-</a>
-
----
-
-### 🏋️ Gym Website With Admin Panel
-
-A complete gym website with an administrative panel for managing dynamic website content.
-
-**Tech Stack**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-<a href="https://github.com/itsdevhassan/Gym-Website-With-Admin-Pannel">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-111111?style=for-the-badge"/>
-</a>
-
----
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/itsdevhassan?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20Explore%20All%20Repositories-111111?style=for-the-badge"/>
-</a>
+### 🛠️ Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,react,php,laravel,dotnet,mysql,postgres,git,github,vscode,postman,figma&perline=8" />
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## 🚀 Featured Work
+
+<table width="100%">
+
+<tr>
+<td width="70%" valign="top">
+
+**🖨️ Packzaa Enterprises**
+<br/>
+Printing company website — responsive frontend, secure admin dashboard, product/category management, and dynamic MySQL-driven content.
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`PHP` `MySQL` `Bootstrap`
+<br/>
+<a href="https://github.com/itsdevhassan/Packzaa">→ Repository</a>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**🏋️ Gym Fee Management System**
+<br/>
+Member and fee-tracking system — payment history, outstanding dues, and an admin dashboard, all backed by a normalized MySQL schema.
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`PHP` `MySQL` `Bootstrap`
+<br/>
+<a href="https://github.com/itsdevhassan/gym-fee-management-system">→ Repository</a>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**🏋️ Gym Website with Admin Panel**
+<br/>
+Full gym website paired with an admin panel for managing dynamic site content without touching code.
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`PHP` `MySQL` `Bootstrap`
+<br/>
+<a href="https://github.com/itsdevhassan/Gym-Website-With-Admin-Pannel">→ Repository</a>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="70%" valign="top">
+
+**🚗 Rent Car Website**
+<br/>
+Responsive car rental frontend for browsing and exploring rental vehicles through a clean, modern interface.
+
+</td>
+<td width="30%" align="right" valign="top">
+
+`PHP` `HTML/CSS` `JS`
+<br/>
+<a href="https://github.com/itsdevhassan/Rent-Car-Website">→ Repository</a>
+
+</td>
+</tr>
+
+</table>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=itsdevhassan&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevhassan&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC" />
+<a href="https://github.com/itsdevhassan?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-0D0D0D?style=for-the-badge"/></a>
 
 </div>
 
-<br>
+<br/>
+
+## 📊 Analytics
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsdevhassan&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdevhassan&layout=compact&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=itsdevhassan&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsdevhassan&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
 
----
+<br/>
 
-## 📚 Currently Learning
+## 🎯 Focus for 2026
+
+`React fluency` · `Software architecture` · `Cloud & DevOps` · `REST API design` · `Real-world production projects`
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Currently%20Learning-React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+### "Don't just write code — build solutions."
+
+<sub>Learn → Build → Test → Fix → Improve → Repeat</sub>
+
+<br/><br/>
+
+<a href="https://itsdevhassan.xo.je/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/itsdevhassan"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-hassan-sohail-%F0%9F%92%BB-71016337a/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2A2A2A,50:151515,100:080808&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-`React`   `Components`   `Hooks`   `State Management`   `Modern Frontend`
-
-</div>
-
----
-
-## 🧠 Development Journey
-
-<table width="100%">
-<tr>
-
-<td align="center" width="25%">
-
-### 01
-
-💻
-
-**Build**
-
-Create real-world projects
-
-</td>
-
-<td align="center" width="25%">
-
-### 02
-
-📚
-
-**Learn**
-
-Explore new technologies
-
-</td>
-
-<td align="center" width="25%">
-
-### 03
-
-⚡
-
-**Improve**
-
-Refactor & optimize
-
-</td>
-
-<td align="center" width="25%">
-
-### 04
-
-🚀
-
-**Grow**
-
-Become a better engineer
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more full-stack applications
-* ⚛️ Become stronger with React
-* 🏗️ Improve software architecture skills
-* ☁️ Explore Cloud & DevOps
-* 🔌 Build and consume REST APIs
-* 🗄️ Work with different database systems
-* 💼 Work on real-world software projects
-* 🧠 Continue growing as a Full Stack Developer
-
----
-
-## 💡 My Development Philosophy
-
-<div align="center">
-
-### "Don't just write code. Build solutions."
-
-<br>
-
-**Learn → Build → Test → Fix → Improve → Repeat**
-
-</div>
-
----
-
-## 📄 Download My CV
-
-<div align="center">
-
-<a href="./Muhammad-Hassan-CV.pdf">
-
-<img src="https://img.shields.io/badge/📥%20DOWNLOAD%20MY%20CV-FFFFFF?style=for-the-badge&labelColor=111111&color=111111"/>
-
-</a>
-
-<br><br>
-
-<sub>View or download my latest CV.</sub>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://itsdevhassan.xo.je/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/itsdevhassan">
-<img src="https://img.shields.io/badge/💻%20GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-hassan-sohail-%F0%9F%92%BB-71016337a/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💻 Code. Build. Learn. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:242424,50:111111,100:080808&section=footer" width="100%"/>
-
-</div>
-
