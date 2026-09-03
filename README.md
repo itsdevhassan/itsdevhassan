@@ -1,8 +1,6 @@
 <img width="959" height="356" alt="image" src="https://github.com/user-attachments/assets/bc739767-fe5c-4bcb-b1f4-09b97ce849ff" />
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080808,50:151515,100:2A2A2A&text=Muhammad%20Hassan&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Karachi%2C%20Pakistan&descColor=B8B8B8&descAlignY=54&descSize=18&animation=fadeIn" width="100%"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Building+Full-Stack+Web+Applications;Frontend+%2B+Backend+%2B+Database;PHP+%C2%B7+Laravel+%C2%B7+.NET+%C2%B7+JavaScript;Currently+Sharpening+React;Turning+Ideas+Into+Real+Software" />
