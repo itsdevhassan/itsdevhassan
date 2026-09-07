@@ -227,3 +227,4 @@ Responsive car rental frontend for browsing and exploring rental vehicles throug
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2A2A2A,50:151515,100:080808&section=footer" width="100%"/>
 
 </div>
+------------------------------------------------------------------------------------------------------------------------------------
